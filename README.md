@@ -7,6 +7,7 @@ Flutter를 이용한 간단한 로또 번호 생성기
 23.10.12
 - Flutter 프로젝트 생성 및 환경 설정
 
+##
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
