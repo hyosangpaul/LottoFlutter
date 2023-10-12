@@ -5,7 +5,7 @@ Flutter를 이용한 간단한 로또 번호 생성기
 ## 개발 로그
 
 23.10.12
-- 1. Flutter 프로젝트 생성 및 환경 설정
+- Flutter 프로젝트 생성 및 환경 설정
 
 This project is a starting point for a Flutter application.
 
